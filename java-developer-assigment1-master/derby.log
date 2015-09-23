@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Tue Sep 22 21:49:45 PDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014f-f889-32b9-000000ae7c68 
+on database directory F:\Eclipse_Workspace\java-developer-assigment1-master\evalDB with class loader sun.misc.Launcher$AppClassLoader@e2f2a 
+Loaded from file:/F:/Eclipse_Workspace/java-developer-assigment1-master/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=F:\Eclipse_Workspace\java-developer-assigment1-master
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 22 21:49:48 PDT 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Sep 22 21:49:48 PDT 2015:
+Shutting down instance a816c00e-014f-f889-32b9-000000ae7c68 on database directory F:\Eclipse_Workspace\java-developer-assigment1-master\evalDB with class loader sun.misc.Launcher$AppClassLoader@e2f2a 
+----------------------------------------------------------------
